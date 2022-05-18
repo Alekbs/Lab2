@@ -9,6 +9,7 @@ int main()
     cout << "Введите a:";
     cin >> a;
     b = 3 * a * a;
+    cout << "b = " << b;
 }
 
  
